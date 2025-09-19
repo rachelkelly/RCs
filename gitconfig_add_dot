@@ -1,9 +1,0 @@
-[user]
-	name = Rachel Kelly
-	email = rkellyalso@gmail.com
-[color]
-	ui = true
-[credential]
-	helper = osxkeychain
-[core]
-	editor = nano

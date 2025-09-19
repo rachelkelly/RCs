@@ -1,14 +1,6 @@
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew install git
-
-brew install wget
-
-brew install python3
-
-brew install vagrant
-
-brew install virtualbox
+brew install git wget python3 vagrant virtualbox
 
 firefox, spotify, hipchat, vlc, textwrangler
 
